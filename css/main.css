@@ -112,7 +112,7 @@ h2{
         align-content: center;
     }
     .container{
-        width: 100%;
+        width:80%;
         display: grid;
         grid-template-columns: repeat(4,1fr) ;
         grid-template-rows: repeat(2,1fr);
